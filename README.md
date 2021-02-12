@@ -15,4 +15,4 @@
 * Stack
 * Vector
 
-![goog](https://media.giphy.com/media/KktZLPCI8d8j5TF2M0/giphy.gif)
+![goog](https://media.giphy.com/media/95P1vO6r7rsk0/giphy.gif)
