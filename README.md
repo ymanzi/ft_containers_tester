@@ -15,4 +15,10 @@
 * Stack
 * Vector
 
+### Bonus
+* Set
+* MultiSet
+* MultiMap
+* Deque
+
 ![goog](https://media.giphy.com/media/95P1vO6r7rsk0/giphy.gif)
