@@ -1,4 +1,7 @@
-#include "../main_header.hpp"
+// #include "../main_header.hpp"
+
+#include <map>
+#include "map.hpp"
 #include <string>
 
 #define P(x) std::cout << std::boolalpha << x << std::endl
