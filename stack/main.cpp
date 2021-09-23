@@ -74,10 +74,10 @@ bool	compare_map(T & t, K & k)
 
 void t_stack(void)
 {
-	ft::stack<std::string> f;
-	ft::stack<std::string> f2;
-	std::stack<std::string> s;
-	std::stack<std::string> s2;
+	ft::stack<std::string, ft::vector<std::string> > f;
+	ft::stack<std::string, ft::vector<std::string> > f2;
+	std::stack<std::string, std::vector<std::string> > s;
+	std::stack<std::string, std::vector<std::string> > s2;
 
 	P("~~~~~~~~~~~~~~~ STACK ~~~~~~~~~~~~~~~----");
 	P("---------> empty <----");
